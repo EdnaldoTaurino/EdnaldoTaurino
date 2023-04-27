@@ -23,7 +23,7 @@ p[midnight-purple_repo]:https://github-readme-stats.vercel.app/api/pin/?username
 <!--![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdnaldoTaurino&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Victor%20Souza%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=true)-->
 
 
-  ### Estudando no momento:
+  ### Skills:
   
   <p align="center">
   <a href="https://skillicons.dev">
