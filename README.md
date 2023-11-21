@@ -49,3 +49,11 @@ p[midnight-purple_repo]:https://github-readme-stats.vercel.app/api/pin/?username
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-5a3b76?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp; -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
+
+## 
+
+ <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
+ <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
+
+##
+  
