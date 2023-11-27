@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-  <div align="center"> Olá, eu sou Ednaldo Taurino, Seja bem vindo(a) ao meu perfil GitHub! 👋🏻 <br><br><br><div/>
+  <div align="center"> Hello, my name is Ednaldo Taurino, welcome to my GitHub profile! 👋🏻 <br><br><br><div/>
 <!--![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D4EDD&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!+I'am+Ednaldo+Taurino;Be+Welcome!+:%29)](https://git.io/typing-svg)-->
 <div align="center">
   <img width="41%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/EdnaldoTaurino?cardType=github&Background=0D1117&Text=00BFBF&Title=9C55DF&Border=C77DFF&Ring=C77DFF&width=41%&height=195px]https://git.io/awesome-stats-card" />
@@ -9,7 +9,7 @@
   
 <!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdnaldoTaurino&point=9C55DF&area_color=C77DFF&color=00bfbf&custom_title=Victor%20Souza%20Contribution%20Graph&line=5C0DA6&bg_color=161918&hide_border=true&area=true) -->
  
-  ### Interaja comigo:
+  ### Interact with me:
 
   <div>
     <a href = "https://www.linkedin.com/in/EdnaldoTaurino/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href ="https://www.instagram.com/edysilva01/" target="_blank"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
