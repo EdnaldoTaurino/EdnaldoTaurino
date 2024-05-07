@@ -22,7 +22,7 @@
   ### Skills:
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,django,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,django,react,react-native" />
   </a>
 </p>
 
