@@ -22,7 +22,7 @@
   ### Skills:
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,django,react,android,mongodb,nextjs" />
+    <img src="https://skillicons.dev/icons?i=html, css, js, nodejs, npm, yarn, c, php, python, django, react, mongodb, androidstudio, flutter, nextjs, vite, vue, git, github, gitlab " />
   </a>
 </p>
 
